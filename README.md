@@ -3,8 +3,6 @@
 ![Final Version Screenshot](file/final_version.png)
 
 ## Description
-DicomViewer is a C++ project developed to fulfill the requirements of the technical test for the **C++ Developer position at Dr.Tis**.
-
 The project focuses on building a simple graphical DICOM viewer, emphasizing clean code, modern C++ practices, and cross-platform build configuration using CMake.
 
 ## Technologies
